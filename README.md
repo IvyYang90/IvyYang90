@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Ivy Yang, an upcoming third year student in the University of British Columbia studying **Statistics**. I am mostly interested in data visualization, statistical analysis,and machine learning.
+My name is Ivy Yang, a third year student in the University of British Columbia studying **Statistics**. I am mostly interested in data visualization, statistical analysis,and machine learning.
 
 <!--
 **IvyYang90/IvyYang90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
